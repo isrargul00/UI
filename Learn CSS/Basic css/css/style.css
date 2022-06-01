@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    background-color: green;
+    height: 100vh;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+.sub{
+    background-color: red;
+    height: 200px;
+}

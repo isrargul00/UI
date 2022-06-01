@@ -1,0 +1,36 @@
+Following is the details of your project :
+ 
+Restaurant Name : 24 Hours Italian Restaurant
+Type of Restaurant : Italian ( Sole Trader)
+Address : Unit 1, Chancerygate Industrial Cent, Horton Close, West Drayton UB7 8EW. United Kingdom
+Opening hours : 12:30 PM to 12:00 AM (7 days a week)
+Contact No: 01895447000
+Owner/Customer Name : Mr Adrian Venoin
+Customer email: Clearbusiness.adrianvenoin@gmail.com
+Online order email: same
+Trading Since : April 2020
+Tag Line About Restaurant : The Home Of Taste In West Drayton
+Bank in use : BARCLAYS BANK
+ 
+NOTE: THE WEBSITE SHOULD HAVE FOLLOWING PAGES :
+1) Restaurant name + Timing
+2) Only Timing of Restaurant
+3) About Us
+4) Contact Us
+5) Our Menu & Pricing (Leave this page empty)
+ 
+Sample Website:https://www.prezzorestaurants.co.uk
+ 
+NOTE: Please use dummy content/data for meanwhile from Google & will provide u as we get it from the customer.
+ 
+ 
+
+Please Contact Through WhatsApp 07451 235085
+
+
+Thank You !!!
+
+Regards:
+Samm Jordan
+SIDR Developers
+338 Norwood Rd, London,SE27 9AF
