@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="noty.min.css">
+    <script src="noty.min.js"></script>
+</head>
+<body>
+    
+    <script>
+        new Noty({
+            type: 'success',
+            text: 'Some notification text',
+            timeout:1500,
+            }).show();
+
+// console.log(n); // Returns a NOTY javascript object
+
+// n.show(); // Show a NOTY
+// n.close(); // Close a NOTY
+// n.setText('Hi again!'); // Notification text updater. Important: .noty_body class is required for setText API method.
+// n.setType('error'); // Notification type updater
+// n.setTheme('newTheme'); // Notification theme updater
+// n.setTimeout(4500); // false (clears timeout) or integer (clears timer, starts for given value)
+// n.stop(); // Clears the timeout
+// n.resume(); // Restarts the timeout
+    </script>
+</body>
+</html>
